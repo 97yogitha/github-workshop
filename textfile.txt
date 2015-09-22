@@ -1,2 +1,6 @@
 
 hello
+adding the second line
+first commit completed
+dkjf
+amend
